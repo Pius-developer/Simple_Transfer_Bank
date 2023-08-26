@@ -13,8 +13,6 @@
         <!-- <link rel="stylesheet" href="assets/css/owl.carousel.min.css"> -->
 
         <title>Trans Bank</title>
-
-
         <style>
 table {
   font-family: arial, sans-serif;

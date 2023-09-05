@@ -121,10 +121,6 @@
 
        </section>
 
-
-
-
-
              <!--========== FOOTER ==========-->
         <div class="homing">
             <footer class="footer section bd-container">

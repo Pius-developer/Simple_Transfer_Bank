@@ -43,8 +43,6 @@
                 </div>
             </nav>
         </header>
-
-
         <section class="menu section bd-container" id="menu">
                 <span class="section-subtitle">You can tranfer your money to another user</span>
                 <h2 class="section-title">Transfer</h2>
